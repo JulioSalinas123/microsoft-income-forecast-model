@@ -1,6 +1,6 @@
 # Microsoft Income Statement Forecast Model
 
-**Author:** Jules Salinas  
+**Author:** Julio Salinas  
 **Date Created:** May 20, 2025
 
 ---
